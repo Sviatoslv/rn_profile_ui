@@ -1,0 +1,8 @@
+export const COLORS = {
+  BACKGROUND: '#41444B',
+  BORDERS: '#999',
+  ACTIVE: '#34FFB9',
+  MAIN_TEXT: '#555',
+  SECONDARY_TEXT: '#999',
+  SECONDARY_ACCENT: '#CABFAB'
+}
